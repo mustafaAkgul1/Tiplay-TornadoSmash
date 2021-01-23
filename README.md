@@ -7,4 +7,4 @@ Tiplay'in isteği üzerine "Tornado Smash" isimli yayınlanmış oyun referans a
 
 Projenin güncel durumu : 
 
-![Gameplay Gif](https://github.com/mustafaAkgul1/Tiplay-TornadoSmash/blob/main/Tiplay-TornadoSmash/Assets/Tiplay-TornadoSmash-GameplayGif.gif "Gameplay Gif")
+<img src="https://github.com/mustafaAkgul1/Tiplay-TornadoSmash/blob/main/Tiplay-TornadoSmash/Assets/Tiplay-TornadoSmash-GameplayGif.gif" width="250" height="450">
