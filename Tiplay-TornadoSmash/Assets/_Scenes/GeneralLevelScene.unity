@@ -37225,20 +37225,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2150038916552813326}
   m_CullTransparentMesh: 0
---- !u!114 &4703227043972786143
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4703227043984002707}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7faa64a828219b44cb0eb5bfbfa83524, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rotateVector: {x: 0, y: 0, z: 90}
-  rotateSpace: 0
 --- !u!4 &4703227043983830461
 Transform:
   m_ObjectHideFlags: 0
@@ -37294,7 +37280,6 @@ GameObject:
   - component: {fileID: 4703227043983830461}
   - component: {fileID: 4703227043998049171}
   - component: {fileID: 4703227043999693619}
-  - component: {fileID: 4703227043972786143}
   m_Layer: 0
   m_Name: VacuumClouds
   m_TagString: Untagged
