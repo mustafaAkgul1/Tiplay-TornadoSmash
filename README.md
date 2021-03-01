@@ -11,4 +11,4 @@ Projenin güncel durumu :
 <img src="https://github.com/mustafaAkgul1/Tiplay-TornadoSmash/blob/main/Tiplay-TornadoSmash/Assets/Tiplay-TornadoSmash-GameplayGif.gif" width="250" height="450">
 
 
-[Mevcut Oynanabilir Apk Linki](https://drive.google.com/file/d/158ZAxn-RIvk1Zv8WqJsQLseaw-5IunEK/view?usp=sharing "Proje Apk Link")
+[Mevcut Oynanabilir Apk Link](https://drive.google.com/file/d/158ZAxn-RIvk1Zv8WqJsQLseaw-5IunEK/view?usp=sharing "Proje Apk Link")
